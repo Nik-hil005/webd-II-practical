@@ -15,7 +15,7 @@ function InputTask() {
         className="Input"
       />
 
-      <h2>{name}</h2>
+      <h2 className="Namee">{name}</h2>
     </div>
   );
 }

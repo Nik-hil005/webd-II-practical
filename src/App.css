@@ -5,3 +5,18 @@ body {
 .Heading {
   color: aquamarine;
 }
+
+.Input {
+  border: 0;
+  height: 32px;
+  font-size: larger;
+  border-radius: 20px;
+  padding: 8px;
+  margin-bottom: 8px;
+}
+
+.Namee {
+  font-size: 2em;
+  font-family:'Times New Roman', Times, serif;
+  
+}
